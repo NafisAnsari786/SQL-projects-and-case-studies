@@ -1,6 +1,6 @@
 -- CREATE DATABASE
 -- CREATE DATABASE restaurant;
-  
+   
 -- USE restaurant;
 
 -- CREATING DATA SET
