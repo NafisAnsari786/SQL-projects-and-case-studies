@@ -5,7 +5,7 @@ USE Cars;
 --- To read Data ---
 
 CREATE TABLE car_info (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY, 
     Name VARCHAR(255),
     year INT,
     selling_price DECIMAL(10,2),
