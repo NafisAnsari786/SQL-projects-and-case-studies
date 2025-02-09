@@ -1,5 +1,5 @@
 CREATE DATABASE Cars;
-
+ 
 USE Cars;
 
 --- To read Data ---
